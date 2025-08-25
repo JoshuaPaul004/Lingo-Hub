@@ -44,5 +44,5 @@ LingoHub/
 *
 
 ---
-**Developed by:** *Josfer Dsouza*
+**Developed by:Joshua Paul.E
 
